@@ -36,7 +36,6 @@ Go to [http://localhost:3000](http://localhost:3000) in your browser.
 1. Log in using the credentials above.
 2. Go to the **Orders** tab.
 3. You can either use the **+ Manual Entry** button (try Latitude: `40.7128`, Longitude: `-74.0060`, Subtotal: `150.00`) OR upload a CSV file.
-4. *Tip:* We have included a `test_orders.csv` file in the root directory for your convenience!
 
 ## 🛠 Tech Stack
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS, Framer Motion, Leaflet.
