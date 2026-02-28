@@ -1,0 +1,541 @@
+[
+  {
+    "locality": "New York State only",
+    "reporting_code": "0021",
+    "composite_tax_rate": 0.04,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State"]
+  },
+  {
+    "locality": "Albany",
+    "reporting_code": "0181",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Albany County"]
+  },
+  {
+    "locality": "Allegany",
+    "reporting_code": "0221",
+    "composite_tax_rate": 0.085,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.045, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Allegany County"]
+  },
+  {
+    "locality": "Broome",
+    "reporting_code": "0321",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Broome County"]
+  },
+  {
+    "locality": "Cattaraugus",
+    "reporting_code": "0481",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cattaraugus County"]
+  },
+  {
+    "locality": "Olean (city)",
+    "reporting_code": "0441",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cattaraugus County", "Olean City"]
+  },
+  {
+    "locality": "Salamanca (city)",
+    "reporting_code": "0431",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cattaraugus County", "Salamanca City"]
+  },
+  {
+    "locality": "Cayuga",
+    "reporting_code": "0511",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cayuga County"]
+  },
+  {
+    "locality": "Auburn (city)",
+    "reporting_code": "0561",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cayuga County", "Auburn City"]
+  },
+  {
+    "locality": "Chautauqua",
+    "reporting_code": "0651",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Chautauqua County"]
+  },
+  {
+    "locality": "Chemung",
+    "reporting_code": "0711",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Chemung County"]
+  },
+  {
+    "locality": "Chenango",
+    "reporting_code": "0861",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Chenango County"]
+  },
+  {
+    "locality": "Norwich (city)",
+    "reporting_code": "0831",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Chenango County", "Norwich City"]
+  },
+  {
+    "locality": "Clinton",
+    "reporting_code": "0921",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Clinton County"]
+  },
+  {
+    "locality": "Columbia",
+    "reporting_code": "1021",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Columbia County"]
+  },
+  {
+    "locality": "Cortland",
+    "reporting_code": "1131",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Cortland County"]
+  },
+  {
+    "locality": "Delaware",
+    "reporting_code": "1221",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Delaware County"]
+  },
+  {
+    "locality": "Dutchess",
+    "reporting_code": "1311",
+    "composite_tax_rate": 0.08125,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0375, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Dutchess County", "MCTD"]
+  },
+  {
+    "locality": "Erie",
+    "reporting_code": "1451",
+    "composite_tax_rate": 0.0875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0475, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Erie County"]
+  },
+  {
+    "locality": "Essex",
+    "reporting_code": "1521",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Essex County"]
+  },
+  {
+    "locality": "Franklin",
+    "reporting_code": "1621",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Franklin County"]
+  },
+  {
+    "locality": "Fulton",
+    "reporting_code": "1791",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Fulton County"]
+  },
+  {
+    "locality": "Gloversville (city)",
+    "reporting_code": "1741",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Fulton County", "Gloversville City"]
+  },
+  {
+    "locality": "Johnstown (city)",
+    "reporting_code": "1751",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Fulton County", "Johnstown City"]
+  },
+  {
+    "locality": "Genesee",
+    "reporting_code": "1811",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Genesee County"]
+  },
+  {
+    "locality": "Greene",
+    "reporting_code": "1911",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Greene County"]
+  },
+  {
+    "locality": "Hamilton",
+    "reporting_code": "2011",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Hamilton County"]
+  },
+  {
+    "locality": "Herkimer",
+    "reporting_code": "2121",
+    "composite_tax_rate": 0.0825,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0425, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Herkimer County"]
+  },
+  {
+    "locality": "Jefferson",
+    "reporting_code": "2221",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Jefferson County"]
+  },
+  {
+    "locality": "Lewis",
+    "reporting_code": "2321",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Lewis County"]
+  },
+  {
+    "locality": "Livingston",
+    "reporting_code": "2411",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Livingston County"]
+  },
+  {
+    "locality": "Madison",
+    "reporting_code": "2511",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Madison County"]
+  },
+  {
+    "locality": "Oneida (city)",
+    "reporting_code": "2541",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Madison County", "Oneida City"]
+  },
+  {
+    "locality": "Monroe",
+    "reporting_code": "2611",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Monroe County"]
+  },
+  {
+    "locality": "Montgomery",
+    "reporting_code": "2781",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Montgomery County"]
+  },
+  {
+    "locality": "Nassau",
+    "reporting_code": "2811",
+    "composite_tax_rate": 0.08625,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0425, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Nassau County", "MCTD"]
+  },
+  {
+    "locality": "New York City",
+    "reporting_code": "8081",
+    "composite_tax_rate": 0.08875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0, "city_rate": 0.045, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "New York City", "MCTD"]
+  },
+  {
+    "locality": "Niagara",
+    "reporting_code": "2911",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Niagara County"]
+  },
+  {
+    "locality": "Oneida",
+    "reporting_code": "3010",
+    "composite_tax_rate": 0.0875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0475, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Oneida County"]
+  },
+  {
+    "locality": "Rome (city)",
+    "reporting_code": "3015",
+    "composite_tax_rate": 0.0875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0475, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Oneida County", "Rome City"]
+  },
+  {
+    "locality": "Utica (city)",
+    "reporting_code": "3018",
+    "composite_tax_rate": 0.0875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0475, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Oneida County", "Utica City"]
+  },
+  {
+    "locality": "Onondaga",
+    "reporting_code": "3121",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Onondaga County"]
+  },
+  {
+    "locality": "Ontario",
+    "reporting_code": "3211",
+    "composite_tax_rate": 0.075,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.035, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Ontario County"]
+  },
+  {
+    "locality": "Orange",
+    "reporting_code": "3321",
+    "composite_tax_rate": 0.08125,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0375, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Orange County", "MCTD"]
+  },
+  {
+    "locality": "Orleans",
+    "reporting_code": "3481",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Orleans County"]
+  },
+  {
+    "locality": "Oswego",
+    "reporting_code": "3501",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Oswego County"]
+  },
+  {
+    "locality": "Oswego (city)",
+    "reporting_code": "3561",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Oswego County", "Oswego City"]
+  },
+  {
+    "locality": "Otsego",
+    "reporting_code": "3621",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Otsego County"]
+  },
+  {
+    "locality": "Putnam",
+    "reporting_code": "3731",
+    "composite_tax_rate": 0.08375,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Putnam County", "MCTD"]
+  },
+  {
+    "locality": "Rensselaer",
+    "reporting_code": "3881",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Rensselaer County"]
+  },
+  {
+    "locality": "Rockland",
+    "reporting_code": "3921",
+    "composite_tax_rate": 0.08375,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Rockland County", "MCTD"]
+  },
+  {
+    "locality": "St. Lawrence",
+    "reporting_code": "4091",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "St. Lawrence County"]
+  },
+  {
+    "locality": "Ogdensburg (city)",
+    "reporting_code": "4012",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "St. Lawrence County", "Ogdensburg City"]
+  },
+  {
+    "locality": "Saratoga",
+    "reporting_code": "4111",
+    "composite_tax_rate": 0.07,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.03, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Saratoga County"]
+  },
+  {
+    "locality": "Saratoga Springs (city)",
+    "reporting_code": "4131",
+    "composite_tax_rate": 0.07,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.03, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Saratoga County", "Saratoga Springs City"]
+  },
+  {
+    "locality": "Schenectady",
+    "reporting_code": "4241",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Schenectady County"]
+  },
+  {
+    "locality": "Schoharie",
+    "reporting_code": "4321",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Schoharie County"]
+  },
+  {
+    "locality": "Schuyler",
+    "reporting_code": "4411",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Schuyler County"]
+  },
+  {
+    "locality": "Seneca",
+    "reporting_code": "4511",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Seneca County"]
+  },
+  {
+    "locality": "Steuben",
+    "reporting_code": "4691",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Steuben County"]
+  },
+  {
+    "locality": "Suffolk",
+    "reporting_code": "4711",
+    "composite_tax_rate": 0.08625,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.0425, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Suffolk County", "MCTD"]
+  },
+  {
+    "locality": "Sullivan",
+    "reporting_code": "4821",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Sullivan County"]
+  },
+  {
+    "locality": "Tioga",
+    "reporting_code": "4921",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Tioga County"]
+  },
+  {
+    "locality": "Tompkins",
+    "reporting_code": "5081",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Tompkins County"]
+  },
+  {
+    "locality": "Ithaca (city)",
+    "reporting_code": "5021",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Tompkins County", "Ithaca City"]
+  },
+  {
+    "locality": "Ulster",
+    "reporting_code": "5111",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Ulster County"]
+  },
+  {
+    "locality": "Warren",
+    "reporting_code": "5281",
+    "composite_tax_rate": 0.07,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.03, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Warren County"]
+  },
+  {
+    "locality": "Glens Falls (city)",
+    "reporting_code": "5211",
+    "composite_tax_rate": 0.07,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.03, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Warren County", "Glens Falls City"]
+  },
+  {
+    "locality": "Washington",
+    "reporting_code": "5311",
+    "composite_tax_rate": 0.07,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.03, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Washington County"]
+  },
+  {
+    "locality": "Wayne",
+    "reporting_code": "5421",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Wayne County"]
+  },
+  {
+    "locality": "Westchester",
+    "reporting_code": "5581",
+    "composite_tax_rate": 0.08375,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Westchester County", "MCTD"]
+  },
+  {
+    "locality": "Mount Vernon (city)",
+    "reporting_code": "5521",
+    "composite_tax_rate": 0.08875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.005, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Westchester County", "Mount Vernon City", "MCTD"]
+  },
+  {
+    "locality": "New Rochelle (city)",
+    "reporting_code": "6861",
+    "composite_tax_rate": 0.08875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.005, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Westchester County", "New Rochelle City", "MCTD"]
+  },
+  {
+    "locality": "White Plains (city)",
+    "reporting_code": "6513",
+    "composite_tax_rate": 0.08875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.005, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Westchester County", "White Plains City", "MCTD"]
+  },
+  {
+    "locality": "Yonkers (city)",
+    "reporting_code": "6511",
+    "composite_tax_rate": 0.08875,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.005, "special_rates": 0.00375 },
+    "jurisdictions": ["New York State", "Westchester County", "Yonkers City", "MCTD"]
+  },
+  {
+    "locality": "Wyoming",
+    "reporting_code": "5621",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Wyoming County"]
+  },
+  {
+    "locality": "Yates",
+    "reporting_code": "5721",
+    "composite_tax_rate": 0.08,
+    "breakdown": { "state_rate": 0.04, "county_rate": 0.04, "city_rate": 0.0, "special_rates": 0.0 },
+    "jurisdictions": ["New York State", "Yates County"]
+  }
+]
