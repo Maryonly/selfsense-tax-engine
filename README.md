@@ -1,14 +1,17 @@
 # SelfSense OS - Drone Tax Engine 🚁📊
 
-SelfSense OS is an entirely offline, offline-first geolocation and tax calculation engine for drone delivery services. It uses custom GeoJSON polygons to determine the exact tax jurisdiction of a delivery point and calculates the Gross Revenue, Tax Liability, and Net Revenue without relying on external APIs.
+SelfSense OS is an entirely offline, offline-first geolocation and tax calculation engine specifically designed for autonomous drone delivery services operating within New York State. It utilizes custom GeoJSON polygons to determine precise tax jurisdictions across all New York counties and NYC boroughs, calculating tax liabilities without relying on any external APIs.
 
 ## 🌟 Key Features
-- **100% Offline Geoprocessing:** Uses `Turf.js` for point-in-polygon checks.
-- **Smart Data Ingestion:** Supports CSV bulk uploads and manual entry.
-- **Deduplication Engine:** Automatically detects and ignores duplicate orders.
-- **Session-based UI:** Focuses on the current upload batch for clarity.
-- **Financial Analytics:** Advanced data table with dynamic PDF/CSV exports.
-- **Dark Mode:** Premium UI built with Tailwind CSS & Framer Motion.
+
+* **100% Offline Geoprocessing**: Powered by `Turf.js` for high-performance, local point-in-polygon checks within NY boundaries.
+* **Multi-Level NY Tax Breakdown**: Granular tax calculation across four legal layers: **New York State**, **County**, **City**, and **MCTD** (Metropolitan Commuter Transportation District).
+* **Advanced Analytics & Reporting**: Generate and download professionally formatted **PDF** or **CSV** reports for tax audits and financial tracking.
+* **Tax-First Financial Logic**: Business-centric engine that calculates **Tax Liability** and **Net Revenue** directly from the gross collected totals.
+* **Smart Input Validation**: Intelligent coordinate parsing that supports various decimal separators (dots/commas) and filters out delivery points outside New York State.
+* **Deduplication Engine**: Real-time duplicate detection with user-facing alerts to prevent double-counting of identical delivery orders.
+* **Real-Time Daily Tracking**: Dashboard insights that separate manual entries from bulk CSV imports for daily operation monitoring.
+* **Dark Mode:**: Premium UI built with **Tailwind CSS** and **Framer Motion** for a smooth, modern administrative experience.
 
 ## 🚀 How to Run Locally (via Docker)
 
